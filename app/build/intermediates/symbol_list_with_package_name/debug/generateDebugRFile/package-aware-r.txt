@@ -1,0 +1,4 @@
+dev.andock
+drawable ic_andock
+string app_name
+style Theme_Andock
