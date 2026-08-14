@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="dev.andock.domain.AndockViewModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-08-14T14:01:12.485Z" hostname="2752b08dd0fd" time="0.057">
-  <properties/>
-  <testcase name="invalid pairing code leaves the app disconnected" classname="dev.andock.domain.AndockViewModelTest" time="0.04"/>
-  <testcase name="sending a command prepends local activity" classname="dev.andock.domain.AndockViewModelTest" time="0.011"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
